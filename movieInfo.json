@@ -1,7 +1,17 @@
-[{
-	"title": "标题",
-	"year": "2015",
-	"posters": {
-		"thumbnail": "http://i.imgur.com/UePbdph.jpg"
-	}
-}]
+{
+	"movies": [{
+			"title": "标题",
+			"year": "2015",
+			"posters": {
+				"thumbnail": "http://i.imgur.com/UePbdph.jpg"
+			}
+		},
+		{
+			"title": "小李",
+			"year": "2018",
+			"posters": {
+				"thumbnail": "https://i.imgur.com/kXJyO1u.jpg"
+			}
+		}
+	]
+}
